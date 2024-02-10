@@ -22,7 +22,7 @@ I'm a passionate web developer with a strong interest in Artificial Intelligence
 Here are some of the projects I'm currently working on or have completed:
 
 1. 🚀 [Project 1](https://karthikk.ccbp.tech/) -  A web app that showcases my frontend skills using HTML,CSS,BOOTSTRAP.  
-2. 🤖 [Project 2](https://karthikai.ccbp.tech/) - An AI-powered chatbot using OpenAI's GPT-3 and Web Technologies like HTML,CSS,JAVASCRIPT.
+
 
 ### Get in Touch
 
